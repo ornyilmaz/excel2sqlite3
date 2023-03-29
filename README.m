@@ -2,4 +2,4 @@ Excel sayfalarını tablo ve ilk satırı da sutun anlamı olarak ayrıştırara
 
 AI desteği ile taslağı oluşturulup düzenlenmiştir.
 
-![alt](excel2sqlite.JPG)
+![Screenshot](excel2sqlite.JPG)
