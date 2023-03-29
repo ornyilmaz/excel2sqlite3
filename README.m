@@ -2,4 +2,4 @@ Excel sayfalarını tablo ve ilk satırı da sutun anlamı olarak ayrıştırara
 
 AI desteği ile taslağı oluşturulup düzenlenmiştir.
 
-!(excel2sqlite.JPG)
+![](excel2sqlite.JPG)
